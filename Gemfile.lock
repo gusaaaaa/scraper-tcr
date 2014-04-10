@@ -1,0 +1,19 @@
+GIT
+  remote: git@github.com:gusaaaaa/easyparser.git
+  revision: 142e3f78f5254e096303867307a7e36d733b57d0
+  specs:
+    easyparser (0.0.5)
+      nokogiri (~> 1.6.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile (0.5.3)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  easyparser!
