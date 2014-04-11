@@ -27,7 +27,7 @@ bundle exec ruby scraper.rb 01/01/2014
 
 (```01/01/2014``` should be replaced with a starting date in the format day/month/year)
 
-To list normatives in a range:
+To list decisions in a range:
 
 ```
 bundle exec ruby scraper.rb 01/01/2014 10/04/2014
