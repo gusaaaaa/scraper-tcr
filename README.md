@@ -1,5 +1,5 @@
-Tribunal de Cuentas: Resoluciones
-=================================
+Tribunal de Cuentas: Decisions (Resoluciones)
+=============================================
 
 Scraper for the website http://www.tcr.gub.uy/resoluciones.php made by [Gustavo Armagno](http://github.com/gusaaaaa/) using [EasyParser](http://github.com/gusaaaaa/easyparser).
 
@@ -13,13 +13,13 @@ bundle install
 To run
 ======
 
-To list this week's normatives:
+To list this week's decisions:
 
 ```
 bundle exec ruby scraper.rb
 ```
 
-To list normatives from a specific date until today:
+To list decisions from a specific date until today:
 
 ```
 bundle exec ruby scraper.rb 01/01/2014
